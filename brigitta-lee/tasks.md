@@ -1,6 +1,6 @@
 #### Testing with Mocha 101
 
-  - [ ] make a new directory to work in call it mocha-test
+  - [X] make a new directory to work in call it mocha-test
   - [ ] set up the mocha testing framework and chai expect library
   - [ ] build a failing test for a reverse a string algorithm
   - [ ] take the test from red to green
