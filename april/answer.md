@@ -1,1 +1,1 @@
-Yes, I have a cat. 
+Yes, I have a cat.
