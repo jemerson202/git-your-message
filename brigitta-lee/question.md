@@ -6,7 +6,7 @@
 
   1. Do you have any animals?
   5.  If you could be any famous person who would you be and why?
-  4.
+  4. B
   2.
  [] checkbox
   [x] checked checkbox
