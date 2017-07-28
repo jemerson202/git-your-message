@@ -21,3 +21,9 @@ var caseOne = 'tebahpla';
       expect(reversestr('alphabet')).to.equal('tebahpla');
     });
   });
+
+  describe ('Check String', function() {
+    it('checks if something is a string',function(){
+      expect(checkStr("Hello World")).to.be.a('string');
+    });
+  });
