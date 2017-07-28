@@ -17,3 +17,11 @@
 <a href="js"/>
 
 look up github markdown language  
+
+###### Question 7/25/2017
+  1. What are three other testing frameworks?
+For unit testing:
+Jasmine
+Enzyme
+Jest
+Karma
