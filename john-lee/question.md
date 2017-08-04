@@ -10,3 +10,7 @@ What is your favorite kind of beverage?
 
 ###### Question 7/25/2017
 3. What is graphQL?
+
+###### Interview Question 8/4/2017
+
+* Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?

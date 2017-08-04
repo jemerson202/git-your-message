@@ -25,3 +25,7 @@ Jasmine
 Enzyme
 Jest
 Karma
+
+###### Interview Question 8/4/2017
+
+- Can you describe the difference between progressive enhancement and graceful degradation?
