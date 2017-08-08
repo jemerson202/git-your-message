@@ -1,5 +1,13 @@
-describe('Create 2D Array', function() {
-  it('Create a 2D Array', function() {
-    expect(index.newArr([1, 2, 3, 4, 5, 6])).to.be.an('array');
+describe('Return The Average Of A Set Of Numbers In An Array!!!!', function() {
+  it('Must Return The Average', function() {
+    expect(index.arrAvg([5, 22, 27, 8, 100])).to.be.a('number');
   });
 });
+
+function arrAvg() {
+
+
+}
+
+
+Look into Jest as a testing framework
