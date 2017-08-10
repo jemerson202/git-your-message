@@ -8,3 +8,7 @@ When will I wake up and find out Trump ism't really presiden?
 ###### Interview Question 8/4/2017
 
 * What do you think of AMD vs CommonJS?
+
+###### Interview Question 8/8/2017
+
+* What are the pros and cons of using Promises instead of callbacks?

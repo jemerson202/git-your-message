@@ -29,3 +29,7 @@ Karma
 ###### Interview Question 8/4/2017
 
 - Can you describe the difference between progressive enhancement and graceful degradation?
+
+###### Interview Question 8/8/2017
+
+* Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
