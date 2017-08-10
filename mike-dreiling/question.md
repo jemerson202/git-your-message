@@ -15,3 +15,13 @@ AMD offers module use by defining the module being used inside functions, declar
 ###### Interview Question 8/8/2017
 
 * What are the pros and cons of using Promises instead of callbacks?
+
+Promises are clean.  Very readable code that reads sequentially.  Most beginner programmers are used to synchronous
+code that reads top to bottom and also executes that way.  Both callbacks and promises are synchronous so they don't execute
+top to bottom, however promises read that way and are simple to read.  Callbacks get nested and can be very difficult to
+follow along with.
+
+Promises also utilize .try and .catch to detect errors.  This is much more useful and cleanly then callbacks.  Consider a big messy
+chunk of code using many nested callbacks.  to detect all errors you would have to utilize many if (err) statements that would be hard to detect and overcomplicated.  This is much simpler and easy to read with promises.
+
+```
