@@ -29,11 +29,7 @@ Karma
 ###### Interview Question 8/4/2017
 
 - Can you describe the difference between progressive enhancement and graceful degradation?
+
 Both graceful degradation and progressive enhancement are intended to make sure that the user can access the basic functionality of the product regardless of the age and sophistication of the systems they use. Both put a premium on accommodating users who may not have access to the latest systems for a variety of reasons. However, they are based on different starting points.  Graceful degradation starts with advanced functionality, but notifies the user when the user's OS or browser will not allow all the functionality.  Progressive enhancement starts with a product that has just basic functionality for all users with all kinds of systems. It then adds advanced functionality (e.g. scripting) for those systems that can accommodate it.  The user with basic systems, however, may not be aware of the advanced functionality of more up-to-date systems but can still use the site.  The ability to print a web page is an example where graceful degradation and progressive enhancement are different ways of handling the same issue, i.e. that you can't link a print button in the browser with an html tag--it requires javascript to be enabled.
 
-https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement 
-
-###### Interview Question 8/8/2017
-
-* Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
-
+https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement
